@@ -1,4 +1,6 @@
 XpenserBackend::Application.routes.draw do
+  get "users/validate_user_name"
+
   get "say/hello"
 
   get "say/goodbye"
