@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-XpenseTracker::Application.config.secret_token = '6306d84aed21637f4b8f1021b340ff644ff7ec952fb9c4c1478612067fd70a68d84672585ba2a173a9bd3370fb0b9a0ce3fbb6764b307e5e5fdfd4855963ba62'
+XpenserBackend::Application.config.secret_token = 'bdd21aaba6e76778f8c1964f9c675f37756d264f595dabcce23ccfa525799b2ebdfd3f21990f846b5f043b7db91c38f042586f032a83f2d56d833bd59b9e3afc'
