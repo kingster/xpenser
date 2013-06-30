@@ -11,7 +11,7 @@
 #
 
 development:
-  adapter: mysql
+  adapter: mysql2
   database: expense_tracker
   username: root
   password:
